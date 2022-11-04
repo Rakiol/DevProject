@@ -1,9 +1,12 @@
 * {
     font-family: 'Times New Roman', Times, serif;
 }
+body {
+    /* background-image: url(../css/artificial-intelligence-7560488_960_720.jpg); */
 
+}
 h1 {
-    color: green;
+    color: rgb(9, 11, 60);
 }
 
 p, li {
